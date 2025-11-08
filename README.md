@@ -45,6 +45,7 @@
 3. this is my hobby and this is not a rat or trojan or whatever. if you dont trust this then dont download it
 4. I dont need any support call me skid or whatever idc
 5. its calling you tester because this is actually the test version made for testers
+6. sometime catbox just down so i have to wait a couple of hours for catbox to work again
 
 # Important stuff
 **It will create a new .txt file everytime you inject**
