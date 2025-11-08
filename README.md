@@ -63,7 +63,7 @@ Discord: @amicusrblx
 # DOWNLOAD
 if the executor stopped working, just wait or dm me on discord
 **pressing this button will immediately download it**
-[Only Executor](https://limewire.com/d/eKD8s#GyprVRRBfh)
+[Only Executor](https://files.catbox.moe/qsu20w.zip)
 
 **Executor + The file to edit(please give credit if you use it)**
 [Download the Edit version](https://files.catbox.moe/fpn4w3.zip)
