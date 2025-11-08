@@ -60,8 +60,9 @@ Tiktok : @amicusrblx
 Discord: @amicusrblx
 
 # DOWNLOAD
+if the executor stopped working, just wait or dm me on discord
 **pressing this button will immediately download it**
-[Only Executor](https://files.catbox.moe/cfr6v5.zip)
+[Only Executor](https://limewire.com/d/eKD8s#GyprVRRBfh)
 
 **Executor + The file to edit(please give credit if you use it)**
 [Download the Edit version](https://files.catbox.moe/fpn4w3.zip)
